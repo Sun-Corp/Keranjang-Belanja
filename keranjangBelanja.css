@@ -183,4 +183,12 @@ body{
     border-radius: 6px;
     background-color: red;
     color: white;
+    cursor: pointer;
+}
+
+.content{
+    position: absolute;
+    top: 30%; left: 40%;
+    text-align: center;
+    color: rgba(152, 152, 171, 1);
 }
